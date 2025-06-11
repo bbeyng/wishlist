@@ -54,5 +54,5 @@ Antes de iniciar, garanta que você tenha os seguintes softwares instalados:
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/bbeyng/wishlist
    cd wishlist
